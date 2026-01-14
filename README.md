@@ -1,8 +1,7 @@
 # TryHackMe Writeups 🚩
 
 This repository contains my technical resolutions and writeups for various **TryHackMe** rooms and challenges.
-All content is provided in **Markdown (.md)** format, designed to be read directly on GitHub or imported into note-taking tools (such as Obsidian or Notion).
-
+All content is provided in **Markdown (.md)** format, designed to be read directly on GitHub and **does not contain the flags**, as this serves to **showcase my methodology and continuous learning**, not to help you cheat.
 ## 📄 Repository Contents
 
 You will find a standalone `.md` file for each solved machine, detailing the intrusion process step-by-step.
